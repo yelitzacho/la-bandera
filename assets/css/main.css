@@ -4,10 +4,14 @@ body{
 }
 
 div{
-	width: 200px;
+	width: 340px;
 	height: 200px;
 }
 
+.contenedor{
+	overflow: auto;
+	border: 1px solid #bcbcbc;
+}
 .amarillo{
 	background-color: yellow;
 }
@@ -16,4 +20,7 @@ div{
 }
 .rojo{
 	background-color: red;
+}
+.float-left{
+	float: left;
 }
