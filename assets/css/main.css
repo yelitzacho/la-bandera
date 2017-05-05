@@ -1,0 +1,19 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+
+div{
+	width: 200px;
+	height: 200px;
+}
+
+.amarillo{
+	background-color: yellow;
+}
+.azul{
+	background-color: blue;
+}
+.rojo{
+	background-color: red;
+}
